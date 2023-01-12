@@ -1,0 +1,33 @@
+//1. Create a server.js file initialize npm and install dependencies
+//  express, dotenv, cors, mongoose, ejs, nodemon (--save-dev)
+
+//2.  Require dependencies
+
+//3.  Declare variables
+
+//4. Create gitignore file
+
+//5. create mongoose schema.js in a models folder. Create a schema for entering data and export the collection
+
+//6. Connect to Mongoose - add connection string to .env file and edit db and collection in schema.js
+
+//7. Create  Port
+
+//----Test Mongoose and Port connection
+
+//8. Set middleware
+
+//9. Create Public and Views folders - add main.js and style.css to Public and index.ejs to Views
+
+//10. Add content to main.js, style.css, index.ejs
+
+//11. Create heroku repo
+
+// heroku login
+// heroku create "name"
+// echo "web: node server.js" > Procfile
+// git add . (take .env out of .gitignore, as heroku requires the connection string to make the connection to the db)
+// git commit -m "changes"
+// git push heroku main
+
+//----Test Heroku Link
